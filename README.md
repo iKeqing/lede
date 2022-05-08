@@ -1,3 +1,6 @@
+# Fork from https://github.com/coolsnowwolf/lede
+
+
 # 欢迎来到 Lean 的 Openwrt 源码仓库
 
 如何编译自己需要的 OpenWrt 固件 [English](./README_EN.md)
@@ -129,8 +132,3 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
 ![xm1](doc/xm5.jpg) ![xm2](doc/xm6.jpg)
 
-## 捐贈
-
-如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
-
-支付宝 ![alipay](doc/alipay_donate.jpg) 微信 ![wechat](doc/wechat_donate.jpg)
